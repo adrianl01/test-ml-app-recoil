@@ -1,0 +1,27 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    border: solid 1px black;
+}
+
+.main {
+    display: flex;
+    border: solid black 1px;
+    background-color: aquamarine;
+    border-radius: 10px;
+    padding: 10px;
+    gap: 10px;
+}
+
+.form {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    border: solid 1px greenyellow;
+    border-radius: 10px;
+}
+
+.img {
+    width: 90px;
+}
